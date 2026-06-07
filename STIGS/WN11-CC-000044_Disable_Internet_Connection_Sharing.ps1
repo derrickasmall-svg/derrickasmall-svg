@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that NTLM must be prevented from falling back to a Null session.
+    This PowerShell script ensures that Internet Connection Sharing must be disabled.
 
 .NOTES
     Author          : Derrick Small
