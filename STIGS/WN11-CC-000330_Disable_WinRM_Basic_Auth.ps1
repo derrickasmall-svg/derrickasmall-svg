@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
+    This PowerShell script ensures that WinRM Client must not use Basic authentication.
 
 .NOTES
     Author          : Derrick Small
@@ -12,7 +12,7 @@
     CVEs            : N/A
     Plugin IDs      : N/A
     STIG-ID         : WN11-CC-000330
-    Documentation   : https://stigaview.com/products/win11/v2r7/WN11-AU-000500/
+    
 
 .TESTED ON
     Date(s) Tested  : 
