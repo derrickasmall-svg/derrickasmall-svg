@@ -4,7 +4,7 @@
 
 .NOTES
     Author          : Derrick Small
-    LinkedIn        : linkedin.com/in/joshmadakor/
+    LinkedIn        : linkedin.com/in/derrick-small-b223566/
     GitHub          : github.com/derrickasmall-svg/derrickasmall-svg
     Date Created    : 2024-09-09
     Last Modified   : 2024-09-09
