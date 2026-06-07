@@ -6,8 +6,8 @@
     Author          : Derrick Small
     LinkedIn        : linkedin.com/in/derrick-small-b223566/
     GitHub          : github.com/derrickasmall-svg/derrickasmall-svg
-    Date Created    : 2024-09-09
-    Last Modified   : 2024-09-09
+    Date Created    : 2026-06-05
+    Last Modified   : 2026-06-06
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
